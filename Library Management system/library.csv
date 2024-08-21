@@ -1,0 +1,51 @@
+bookID,author,title,genre,availability
+a,George Orwell,1984,Dystopian,true
+b,Aldous Huxley,Brave New World,Dystopian,true
+c,Bram Stoker,Dracula,Horror,true
+d,Emily Bronte,Wuthering Heights,Fiction,true
+e,Mary Shelley,Frankenstein,Horror,true
+f,J.K. Rowling,Harry Potter and the Philosopher's Stone,Fantasy,true
+g,Fyodor Dostoevsky,Crime and Punishment,Fiction,true
+h,James Clear,Atomic Habits,Mindfulness,true
+i,Yuval Noah Harari,Homo Deus,Humankind Future,true
+j,Robert Kiyosaki,Rich Dad Poor Dad,Personal Finance,true
+k,Robert Kiyosaki,Cashflow Quadrant,Personal Finance,true
+l,Stephen Covey,The 7 Habits of Highly Effective People,Self-Help,true
+m,J.R.R. Tolkien,The Hobbit,Fantasy,true
+n,Harper Lee,To Kill a Mockingbird,Fiction,true
+o,Delia Owens,Where the Crawdads Sing,Fiction,true
+p,Daniel Kahneman,Thinking, Fast and Slow,Human Psychology,true
+q,Mark Manson,The Subtle Art of Not Giving a F*ck,Self-Help,true
+r,Rupi Kaur,Milk and Honey,Poetry,true
+s,Dale Carnegie,How to Win Friends and Influence People,Self-Help,true
+t,Stephen King,The Shining,Horror,true
+u,Yuval Noah Harari,Sapiens,Humankind History,true
+v,Benjamin Graham,The Intelligent Investor,Personal Finance,true
+w,Ryan Holiday,The Obstacle Is the Way,Philosophy,true
+x,Franz Kafka,The Metamorphosis,Fiction,true
+y,Charles Duhigg,The Power of Habit,Self-Help,true
+z,Sun Tzu,The Art of War,Strategy,true
+aa,Stanley Danko,The Millionaire Next Door,Personal Finance,true
+ab,Agatha Christie,Murder on the Orient Express,Mystery,true
+ac,Herman Melville,Moby Dick,Fiction,true
+ad,Jane Austen,Pride and Prejudice,Fiction,true
+ae,Brene Brown,Daring Greatly,Self-Help,true
+af,Napoleon Hill,Think and Grow Rich,Personal Development,true
+ag,Ernest Hemingway,The Old Man and the Sea,Fiction,true
+ah,Tim Ferriss,The 4-Hour Workweek,Self-Help,true
+ai,Robert Sapolsky,Behave,Human Psychology,true
+aj,Viktor Frankl,Man's Search for Meaning,Mindfulness,true
+ak,Phil Knight,Shoe Dog,Autobiography,true
+al,Malcolm Gladwell,Outliers,Success,true
+am,Leo Tolstoy,War and Peace,Fiction,true
+an,Mitch Albom,Tuesdays with Morrie,Fiction,true
+ao,Marcus Aurelius,Meditations,Philosophy,true
+ap,F. Scott Fitzgerald,The Great Gatsby,Fiction,true
+aq,John Steinbeck,The Grapes of Wrath,Fiction,true
+ar,Gabriel Garcia Marquez,One Hundred Years of Solitude,Fiction,true
+as,Arthur Conan Doyle,The Complete Sherlock Holmes,Mystery,true
+at,H.G. Wells,The War of the Worlds,Science Fiction,true
+au,J.D. Salinger,The Catcher in the Rye,Fiction,true
+av,Chris Voss,Never Split the Difference,Negotiation,true
+aw,Carol S. Dweck,Mindset,Mindfulness,true
+ax,Paul Kalanithi,When Breath Becomes Air,Autobiography,true
